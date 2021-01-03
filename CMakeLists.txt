@@ -3,4 +3,4 @@ project(Application1)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(Application1 virtual/virtualExample.cpp)
+add_executable(Application1  template/template.cpp)
